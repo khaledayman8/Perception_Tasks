@@ -1,0 +1,6 @@
+train: E:\Khaled\Khaled_Ayman_Perception_Tasks\BonusTask_WS\BonusTask\lane.v1i.yolov8\train\images
+val: E:\Khaled\Khaled_Ayman_Perception_Tasks\BonusTask_WS\BonusTask\lane.v1i.yolov8\valid\images
+test: E:\Khaled\Khaled_Ayman_Perception_Tasks\BonusTask_WS\BonusTask\lane.v1i.yolov8\test\images
+
+nc: 1
+names: ["lane"]
